@@ -15,5 +15,5 @@ Research Interests:
 
 **[Visit my website for more information!](https://resurgamm.github.io/)**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Resurgamm)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=resurgamm)
 
