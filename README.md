@@ -14,6 +14,3 @@ Research Interests:
 📫 How to reach me: 050531lby@gmail.com or boyil2@illinois.edu
 
 **[Visit my website for more information!](https://resurgamm.github.io/)**
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=resurgamm)
-
