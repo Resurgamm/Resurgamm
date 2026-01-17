@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Boyi Li. I am pursuing my B.Eng. degree in Computer Engineering at the ZJU-UIUC Institute.
 
-<!--
-**Resurgamm/Resurgamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm now a research intern in Rehg Lab in UIUC. I'm also very fortunate to be a research assistant in CVNext Lab advised by Prof. Gaoang Wang in ZJU.
 
-Here are some ideas to get you started:
+Research Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embodied AI
+- Multimodal LLM
+- Multi-Agent Systems
+- Reinforcement Learning
+
+👀 I am seeking for a summer internship or research opportunity for the summer of 2026.
+
+📫 How to reach me: 050531lby@gmail.com or boyil2@illinois.edu
