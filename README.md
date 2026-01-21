@@ -1,4 +1,4 @@
-👋 Hi, I'm Boyi Li. I am pursuing my B.Eng. degree in Computer Engineering at the ZJU-UIUC Institute.
+👋 Hi, I'm Boyi Li. I am pursuing my B.S. degree in Computer Engineering at the ZJU-UIUC Institute.
 
 I'm now a research intern in Rehg Lab in UIUC. I'm also very fortunate to be a research assistant in CVNext Lab advised by Prof. Gaoang Wang in ZJU.
 
